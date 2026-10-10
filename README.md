@@ -40,30 +40,3 @@ cybersecurity/  linux/  networking/  programming/  hardware/
   <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/ESP32-1a1a1a?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
 </p>
-
-### `principles.txt`
-
-```text
-[+] Learn by building.
-[+] Understand before exploiting.
-[+] Practice in authorized environments.
-[+] Document what you learn.
-[+] Stay curious.
-```
-
-### `find-me`
-
-- **GitHub:** [@KadirKayacan](https://github.com/KadirKayacan)
-
----
-
-<div align="center">
-
-```text
-Curiosity is the exploit.
-Knowledge is the payload.
-```
-
-<sub>Still learning. Still building. Always exploring.</sub>
-
-</div>
