@@ -15,21 +15,6 @@
 
 *Learning how systems work — and how to make them more secure.*
 
-```text
-             .       *         .
-        .        .-""""""-.          *
-              .-'  .--.    '-.
-       *     /    /    \      \
-            |    |      |      |
-       .     \    \____/      /
-              '-.          .-'
-          *      '-.____.-'       .
-```
-
-</div>
-
----
-
 ### `whoami`
 
 ```console
@@ -45,16 +30,6 @@ Never stop learning.
 kadir@github:~$ ls interests/
 cybersecurity/  linux/  networking/  programming/  hardware/
 ```
-
-### `~/projects`
-
-| Project | Description | Stack |
-|---|---|---|
-| [ESP32 Ağ Tarayıcı](https://github.com/KadirKayacan/ESP32-Ag-Tarayici) | ESP32 ile Wi-Fi ağlarını keşfetmeye yönelik bir çalışma | C++ · ESP32 |
-| Security Labs | Siber güvenlik araçları ve deneyler | Python · Linux |
-| CTF Write-ups | Öğrenme notları ve laboratuvar çözümleri | Web · Networking · Linux |
-
-> More experiments, tools and write-ups will appear here as they take shape.
 
 ### `tech-stack`
 
