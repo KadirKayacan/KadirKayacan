@@ -54,7 +54,6 @@ cybersecurity/  linux/  networking/  programming/  hardware/
 ### `find-me`
 
 - **GitHub:** [@KadirKayacan](https://github.com/KadirKayacan)
-- **Featured project:** [ESP32 Ağ Tarayıcı](https://github.com/KadirKayacan/ESP32-Ag-Tarayici)
 
 ---
 
